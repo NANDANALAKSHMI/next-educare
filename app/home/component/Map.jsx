@@ -12,7 +12,7 @@ const Map = () => {
             </h2>
             <div>
                 <Image
-                    src="map.svg"
+                    src="map1.png"
                     alt="map"
                     width={60}
                     height={60}
