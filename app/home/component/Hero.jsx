@@ -30,7 +30,7 @@ const Hero = () => {
                         variants={imageFloatVariants}
                     >
                         <Image
-                            src="/component12.svg"
+                            src="/Component12.svg"
                             alt="Another description"
                             width={800}
                             height={300}
@@ -59,7 +59,7 @@ const Hero = () => {
                         variants={imageFloatVariants}
                     >
                         <Image
-                            src="/component1.svg"
+                            src="/Component1.svg"
                             alt="Another description"
                             width={800}
                             height={300}
