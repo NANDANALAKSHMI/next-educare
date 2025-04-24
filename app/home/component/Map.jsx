@@ -12,7 +12,7 @@ const Map = () => {
             </h2>
             <div>
                 {/* <Image
-                    src="map1.png"
+                    src="/grop123.png"
                     alt="map"
                     width={60}
                     height={60}
