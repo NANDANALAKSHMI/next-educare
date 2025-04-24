@@ -11,13 +11,13 @@ const Map = () => {
                 Prepare Your Child for a World of Opportunities with Educare
             </h2>
             <div>
-                <Image
+                {/* <Image
                     src="map1.png"
                     alt="map"
                     width={60}
                     height={60}
                     className="rounded-full w-full border-2 border-white"
-                />
+                /> */}
             </div>
         </div>
         <MarqueText/>
